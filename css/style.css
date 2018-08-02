@@ -34,7 +34,7 @@ header h1{
     float: left;
     margin: 0 10px 10px 0;
     transition: opacity 1s ease 0s;
-    widows: 100%;
+    width: 100%;
 }
 
 .information h1{
