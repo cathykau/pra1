@@ -34,6 +34,7 @@ header h1{
     float: left;
     margin: 0 10px 10px 0;
     transition: opacity 1s ease 0s;
+    widows: 100%;
 }
 
 .information h1{
@@ -58,7 +59,7 @@ header h1{
 
 .film h2{
     clear: left;
-    font-size: 10;
+    font-size: 16px;
     font-weight: bold;
     margin: 0;
     background-color: #E6E4DD;
@@ -89,6 +90,7 @@ header h1{
         float: none;
         display: block;
         margin: 0 auto;
+        width: 100%;
     }
 
     header{
